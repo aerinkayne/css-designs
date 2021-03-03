@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/css-designs/static/css/main.6fe4a188.chunk.css",
+    "main.js": "/css-designs/static/js/main.4066869a.chunk.js",
+    "main.js.map": "/css-designs/static/js/main.4066869a.chunk.js.map",
+    "runtime-main.js": "/css-designs/static/js/runtime-main.4e47f827.js",
+    "runtime-main.js.map": "/css-designs/static/js/runtime-main.4e47f827.js.map",
+    "static/js/2.5eebbdb4.chunk.js": "/css-designs/static/js/2.5eebbdb4.chunk.js",
+    "static/js/2.5eebbdb4.chunk.js.map": "/css-designs/static/js/2.5eebbdb4.chunk.js.map",
+    "static/js/3.18e2d78e.chunk.js": "/css-designs/static/js/3.18e2d78e.chunk.js",
+    "static/js/3.18e2d78e.chunk.js.map": "/css-designs/static/js/3.18e2d78e.chunk.js.map",
+    "index.html": "/css-designs/index.html",
+    "static/css/main.6fe4a188.chunk.css.map": "/css-designs/static/css/main.6fe4a188.chunk.css.map",
+    "static/js/2.5eebbdb4.chunk.js.LICENSE.txt": "/css-designs/static/js/2.5eebbdb4.chunk.js.LICENSE.txt",
+    "static/media/artstation.f3a9662a.svg": "/css-designs/static/media/artstation.f3a9662a.svg",
+    "static/media/freecodecamp.9f3ebe80.svg": "/css-designs/static/media/freecodecamp.9f3ebe80.svg",
+    "static/media/github.0133fe9c.svg": "/css-designs/static/media/github.0133fe9c.svg",
+    "static/media/main.css": "/css-designs/static/media/pexels-photo-235985pixabay.1d2aa088.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e47f827.js",
+    "static/js/2.5eebbdb4.chunk.js",
+    "static/css/main.6fe4a188.chunk.css",
+    "static/js/main.4066869a.chunk.js"
+  ]
+}
